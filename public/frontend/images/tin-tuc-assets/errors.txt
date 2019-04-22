@@ -1,0 +1,4 @@
+[4/9/2019, 5:26:00 PM] layer "  E: info@demo.com.vn": Unsupported extension: vn
+[4/9/2019, 5:26:00 PM] layer "Tầng 8, Tòa nhà TOYOTA Thanh Xuân, 315 Trường Chinh Thanh Xuân,": Expected end of input but "," found.
+[4/9/2019, 5:26:00 PM] layer "Email: info@gco.vn ": Unsupported extension: vn
+[4/9/2019, 5:26:00 PM] layer "Cám ơn quý khách đã truy cập vào website Kosmebox.com được vận ": Expected end of input but "đ" found.
